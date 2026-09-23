@@ -101,3 +101,7 @@ streamlit run <full path to>/vantara_app.py
 It opens automatically at `http://localhost:8501` in your browser.
 
 On Windows, use `py -m pip` and `py -m streamlit` if `pip` and `streamlit` are not recognized directly.
+
+
+Author: Junaid Ahmed
+ Contact: junaid.linab@gmail.com
